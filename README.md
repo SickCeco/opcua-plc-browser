@@ -1,3 +1,3 @@
 # opcua-plc-browser
 
-Scarica la cartella adatta al sistema operativo e segui i passi contenuti nel file README
+Scaricare la versione per il proprio sistema dalla sezione Releases a destra (Windows o macOS) e usare il pacchetto relativo.
